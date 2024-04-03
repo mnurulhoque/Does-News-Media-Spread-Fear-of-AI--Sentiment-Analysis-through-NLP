@@ -1,4 +1,4 @@
-# Does News Media Spread Fear of AI?-Sentiment Analysis through Natural Language Processing (NLP)
+# Does News Media Spread Fear of AI?-An Analytical Exploration through Natural Language Processing (NLP) and Machine Learning (ML)
 
 # Project Overview
 The project investigates the media's role in shaping public perceptions of artificial intelligence (AI). It explores whether the news media spreads fear of AI by analyzing dominant themes in media coverage.
